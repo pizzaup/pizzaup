@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-07T06:34:31.209Z</updated>
+  <updated>2021-01-13T03:09:13.339Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,87 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Java语法（内部类）</title>
+    <link href="http://example.com/2021/01/12/Java%E8%AF%AD%E6%B3%95%EF%BC%88%E5%86%85%E9%83%A8%E7%B1%BB%EF%BC%89/"/>
+    <id>http://example.com/2021/01/12/Java%E8%AF%AD%E6%B3%95%EF%BC%88%E5%86%85%E9%83%A8%E7%B1%BB%EF%BC%89/</id>
+    <published>2021-01-12T03:25:14.000Z</published>
+    <updated>2021-01-13T03:09:13.339Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;内部类&quot;&gt;&lt;a href=&quot;#内部类&quot; class=&quot;headerlink&quot; title=&quot;内部类&quot;&gt;&lt;/a&gt;内部类&lt;/h2&gt;&lt;h4 id=&quot;概念&quot;&gt;&lt;a href=&quot;#概念&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="Java语法" scheme="http://example.com/tags/Java%E8%AF%AD%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java语法（泛型）</title>
+    <link href="http://example.com/2021/01/08/Java%E8%AF%AD%E6%B3%95%EF%BC%88%E6%B3%9B%E5%9E%8B%EF%BC%89/"/>
+    <id>http://example.com/2021/01/08/Java%E8%AF%AD%E6%B3%95%EF%BC%88%E6%B3%9B%E5%9E%8B%EF%BC%89/</id>
+    <published>2021-01-08T01:28:57.000Z</published>
+    <updated>2021-01-12T03:23:37.868Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;泛型&quot;&gt;&lt;a href=&quot;#泛型&quot; class=&quot;headerlink&quot; title=&quot;泛型&quot;&gt;&lt;/a&gt;泛型&lt;/h2&gt;&lt;h4 id=&quot;概念&quot;&gt;&lt;a href=&quot;#概念&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="Java语法" scheme="http://example.com/tags/Java%E8%AF%AD%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java8</title>
+    <link href="http://example.com/2021/01/08/java8/"/>
+    <id>http://example.com/2021/01/08/java8/</id>
+    <published>2021-01-08T01:28:57.000Z</published>
+    <updated>2021-01-08T01:50:48.545Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;JAVA8-amp-API&quot;&gt;&lt;a href=&quot;#JAVA8-amp-API&quot; class=&quot;headerlink&quot; title=&quot;JAVA8 &amp;amp; API&quot;&gt;&lt;/a&gt;JAVA8 &amp;amp; API&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;oracle</summary>
+        
+      
+    
+    
+    
+    <category term="java" scheme="http://example.com/categories/java/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>分类测试</title>
     <link href="http://example.com/2021/01/05/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
     <id>http://example.com/2021/01/05/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</id>
     <published>2021-01-05T05:34:45.000Z</published>
-    <updated>2021-01-07T06:34:31.209Z</updated>
+    <updated>2021-01-08T01:28:15.338Z</updated>
     
     
       
@@ -37,7 +113,7 @@
     <category term="人生感悟" scheme="http://example.com/categories/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F/"/>
     
     
-    <category term="tags" scheme="http://example.com/tags/tags/"/>
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
