@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-13T03:13:27.153Z</updated>
+  <updated>2021-01-21T06:14:03.557Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,194 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java8新特性之六：新的日期时间 API</title>
+    <link href="http://example.com/2021/01/21/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E5%85%AD%EF%BC%9A%E6%96%B0%E7%9A%84%E6%97%A5%E6%9C%9F%E6%97%B6%E9%97%B4%20API/"/>
+    <id>http://example.com/2021/01/21/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E5%85%AD%EF%BC%9A%E6%96%B0%E7%9A%84%E6%97%A5%E6%9C%9F%E6%97%B6%E9%97%B4%20API/</id>
+    <published>2021-01-21T05:51:14.000Z</published>
+    <updated>2021-01-21T06:14:03.557Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Java8新特性之三：stream-API&quot;&gt;&lt;a href=&quot;#Java8新特性之三：stream-API&quot; class=&quot;headerlink&quot; title=&quot;Java8新特性之三：stream API&quot;&gt;&lt;/a&gt;Java8新特性之三：stream</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="Java超神之路" scheme="http://example.com/tags/Java%E8%B6%85%E7%A5%9E%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java8新特性之五：Optional</title>
+    <link href="http://example.com/2021/01/21/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E4%BA%94%EF%BC%9AOptional/"/>
+    <id>http://example.com/2021/01/21/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E4%BA%94%EF%BC%9AOptional/</id>
+    <published>2021-01-21T01:47:24.000Z</published>
+    <updated>2021-01-21T01:58:24.503Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Java8新特性之五：Optional&quot;&gt;&lt;a href=&quot;#Java8新特性之五：Optional&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="Java超神之路" scheme="http://example.com/tags/Java%E8%B6%85%E7%A5%9E%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java8新特性之四：接口默认方法和静态方法</title>
+    <link href="http://example.com/2021/01/21/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E5%9B%9B%EF%BC%9A%E6%8E%A5%E5%8F%A3%E9%BB%98%E8%AE%A4%E6%96%B9%E6%B3%95%E5%92%8C%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95/"/>
+    <id>http://example.com/2021/01/21/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E5%9B%9B%EF%BC%9A%E6%8E%A5%E5%8F%A3%E9%BB%98%E8%AE%A4%E6%96%B9%E6%B3%95%E5%92%8C%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95/</id>
+    <published>2021-01-21T01:23:09.000Z</published>
+    <updated>2021-01-21T01:43:25.740Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Java8新特性之四：接口默认方法和静态方法&quot;&gt;&lt;a href=&quot;#Java8新特性之四：接口默认方法和静态方法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="Java超神之路" scheme="http://example.com/tags/Java%E8%B6%85%E7%A5%9E%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java8新特性之三：stream API</title>
+    <link href="http://example.com/2021/01/20/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E4%B8%89%EF%BC%9AStream%20API/"/>
+    <id>http://example.com/2021/01/20/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E4%B8%89%EF%BC%9AStream%20API/</id>
+    <published>2021-01-20T02:24:13.000Z</published>
+    <updated>2021-01-21T05:47:27.306Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Java8新特性之三：stream-API&quot;&gt;&lt;a href=&quot;#Java8新特性之三：stream-API&quot; class=&quot;headerlink&quot; title=&quot;Java8新特性之三：stream API&quot;&gt;&lt;/a&gt;Java8新特性之三：stream</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="Java超神之路" scheme="http://example.com/tags/Java%E8%B6%85%E7%A5%9E%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java8新特性之二：方法引用</title>
+    <link href="http://example.com/2021/01/20/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E4%BA%8C%EF%BC%9A%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8/"/>
+    <id>http://example.com/2021/01/20/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E4%BA%8C%EF%BC%9A%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8/</id>
+    <published>2021-01-20T01:14:08.000Z</published>
+    <updated>2021-01-20T02:00:12.756Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Java8新特性之二：方法引用&quot;&gt;&lt;a href=&quot;#Java8新特性之二：方法引用&quot; class=&quot;headerlink&quot; title=&quot;Java8新特性之二：方法引用&quot;&gt;&lt;/a&gt;Java8新特性之二：方法引用&lt;/h2&gt;&lt;p&gt;​       </summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="Java超神之路" scheme="http://example.com/tags/Java%E8%B6%85%E7%A5%9E%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java8新特性之一：Lambda表达式</title>
+    <link href="http://example.com/2021/01/19/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E4%B8%80%EF%BC%9ALambda%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    <id>http://example.com/2021/01/19/Java8%E6%96%B0%E7%89%B9%E6%80%A7%E4%B9%8B%E4%B8%80%EF%BC%9ALambda%E8%A1%A8%E8%BE%BE%E5%BC%8F/</id>
+    <published>2021-01-19T09:01:23.000Z</published>
+    <updated>2021-01-19T09:26:26.269Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Java8新特性之一：Lambda表达式&quot;&gt;&lt;a href=&quot;#Java8新特性之一：Lambda表达式&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="Java超神之路" scheme="http://example.com/tags/Java%E8%B6%85%E7%A5%9E%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java的发展</title>
+    <link href="http://example.com/2021/01/19/Java%E7%9A%84%E5%8F%91%E5%B1%95/"/>
+    <id>http://example.com/2021/01/19/Java%E7%9A%84%E5%8F%91%E5%B1%95/</id>
+    <published>2021-01-19T01:28:57.000Z</published>
+    <updated>2021-01-19T08:56:23.703Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Java-的发展&quot;&gt;&lt;a href=&quot;#Java-的发展&quot; class=&quot;headerlink&quot; title=&quot;Java 的发展&quot;&gt;&lt;/a&gt;Java 的发展&lt;/h1&gt;&lt;h2 id=&quot;JDK-5&quot;&gt;&lt;a href=&quot;#JDK-5&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="Java超神之路" scheme="http://example.com/tags/Java%E8%B6%85%E7%A5%9E%E4%B9%8B%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>信托业务知识</title>
+    <link href="http://example.com/2021/01/14/%E4%BF%A1%E6%89%98%E4%B8%9A%E5%8A%A1%E7%9F%A5%E8%AF%86/"/>
+    <id>http://example.com/2021/01/14/%E4%BF%A1%E6%89%98%E4%B8%9A%E5%8A%A1%E7%9F%A5%E8%AF%86/</id>
+    <published>2021-01-14T02:17:48.000Z</published>
+    <updated>2021-01-14T02:17:48.426Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Java语法（内部类）</title>
@@ -67,37 +255,11 @@
   </entry>
   
   <entry>
-    <title>java8</title>
-    <link href="http://example.com/2021/01/08/java8/"/>
-    <id>http://example.com/2021/01/08/java8/</id>
-    <published>2021-01-08T01:28:57.000Z</published>
-    <updated>2021-01-13T03:12:53.528Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;JAVA8-amp-API&quot;&gt;&lt;a href=&quot;#JAVA8-amp-API&quot; class=&quot;headerlink&quot; title=&quot;JAVA8 &amp;amp; API&quot;&gt;&lt;/a&gt;JAVA8 &amp;amp; API&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;oracle</summary>
-        
-      
-    
-    
-    
-    <category term="Java" scheme="http://example.com/categories/Java/"/>
-    
-    
-    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>分类测试</title>
     <link href="http://example.com/2021/01/05/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
     <id>http://example.com/2021/01/05/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</id>
     <published>2021-01-05T05:34:45.000Z</published>
-    <updated>2021-01-08T01:28:15.338Z</updated>
+    <updated>2021-01-20T05:52:12.588Z</updated>
     
     
       
